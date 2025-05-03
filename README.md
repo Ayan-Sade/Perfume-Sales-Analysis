@@ -1,5 +1,7 @@
 # Perfume Sales Analysis Using Excel and Power BI
 
+![Image](https://github.com/user-attachments/assets/a16ae91c-01f3-49c9-babd-8fcbdfad2cf8)
+
 ## Overview
 
 This project is a deep-dive analytical exploration into perfume sales using **Microsoft Excel** and **Power BI**. The objective is to uncover insights into customer preferences, pricing trends, and brand performance. This analysis answers specific business questions and supports data-driven decision-making through a combination of **descriptive statistics**, **correlation and regression modeling**, and **data visualization**.
