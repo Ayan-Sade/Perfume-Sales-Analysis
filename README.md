@@ -172,7 +172,7 @@ Click on each link to view the corresponding images:
 
 ---
 
-## 📊 Dataset File
+## Dataset File
 
 - [📥 My Statistics.xlsx](https://github.com/Ayan-Sade/Perfume-Sales-Analysis/blob/main/Dataset/My%20Statistics.xlsx?raw=true)
 
