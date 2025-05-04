@@ -166,6 +166,12 @@ Click on each link to view the corresponding images:
 
 ---
 
+## Power BI Dashboard
+
+- [Dashboard / Power BI View](https://github.com/Ayan-Sade/Perfume-Sales-Analysis/blob/main/Dashboard/Power%20BI%20View.PNG?raw=true)
+
+---
+
 ## Notes
 
 * Excel dashboards utilized **slicers** for filtering and interactivity.
