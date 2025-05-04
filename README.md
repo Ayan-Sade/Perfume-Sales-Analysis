@@ -153,21 +153,21 @@ Additional encoded columns were created for regression analysis:
 
 ### Excel Dashboards & Charts
 
-1. [Sales Performance by Brand](https://github.com/Ayan-Sade/Perfume-Sales-Analysis/blob/main/Excel%20Visuals/Sales%20Performance%20by%20Brand.png?raw=true)
+1. [Sales Performance by Brand](https://github.com/Ayan-Sade/Perfume-Sales-Analysis/blob/main/Excel%20Visuals/Sales%20Performance%20by%20Brand.PNG?raw=true)
 
-2. [Average Price and Sales by Brand](https://github.com/Ayan-Sade/Perfume-Sales-Analysis/blob/main/Excel%20Visuals/Average%20Price%20and%20Sales%20by%20Brand.png?raw=true)
+2. [Average Price and Sales by Brand](https://github.com/Ayan-Sade/Perfume-Sales-Analysis/blob/main/Excel%20Visuals/Average%20Price%20and%20Sales%20by%20Brand.PNG?raw=true)
 
-3. [Sales by Category](https://github.com/Ayan-Sade/Perfume-Sales-Analysis/blob/main/Excel%20Visuals/Sales%20by%20Category.png?raw=true)
+3. [Sales by Category](https://github.com/Ayan-Sade/Perfume-Sales-Analysis/blob/main/Excel%20Visuals/Sales%20by%20Category.PNG?raw=true)
 
-4. [Sales by Location](https://github.com/Ayan-Sade/Perfume-Sales-Analysis/blob/main/Excel%20Visuals/Sales%20by%20Location.png?raw=true)
+4. [Sales by Location](https://github.com/Ayan-Sade/Perfume-Sales-Analysis/blob/main/Excel%20Visuals/Sales%20by%20Location.PNG?raw=true)
 
-5. [Price and Sales Performance](https://github.com/Ayan-Sade/Perfume-Sales-Analysis/blob/main/Excel%20Visuals/Price%20and%20Sales%20Performance.png?raw=true)
+5. [Price and Sales Performance](https://github.com/Ayan-Sade/Perfume-Sales-Analysis/blob/main/Excel%20Visuals/Price%20and%20Sales%20Performance.PNG?raw=true)
 
-6. [Sales and Availability by Brand](https://github.com/Ayan-Sade/Perfume-Sales-Analysis/blob/main/Excel%20Visuals/Sales%20and%20Availability%20by%20Brand.png?raw=true)
+6. [Sales and Availability by Brand](https://github.com/Ayan-Sade/Perfume-Sales-Analysis/blob/main/Excel%20Visuals/Sales%20and%20Availability%20by%20Brand.PNG?raw=true)
 
-7. [Collinearity of Correlation Analysis](https://github.com/Ayan-Sade/Perfume-Sales-Analysis/blob/main/Excel%20Visuals/7(i).%20Collinearity%20of%20Correlation%20Analysis.png?raw=true)
+7. [Collinearity of Correlation Analysis](https://github.com/Ayan-Sade/Perfume-Sales-Analysis/blob/main/Excel%20Visuals/7(i).%20Collinearity%20of%20Correlation%20Analysis.PNG?raw=true)
 
-8. [Predicted and Actual Sales Performance](https://github.com/Ayan-Sade/Perfume-Sales-Analysis/blob/main/Excel%20Visuals/7(ii).%20Predicted%20and%20Actual%20Sales%20Performance.png?raw=true)
+8. [Predicted and Actual Sales Performance](https://github.com/Ayan-Sade/Perfume-Sales-Analysis/blob/main/Excel%20Visuals/7(ii).%20Predicted%20and%20Actual%20Sales%20Performance.PNG?raw=true)
 
 ---
 
